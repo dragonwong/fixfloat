@@ -1,0 +1,20 @@
+{
+  "name": "fixfloat",
+  "version": "1.0.0",
+  "description": "fix float number bug in javascript",
+  "author": {
+    "name": "wangdagen",
+    "url": "http://wangdagen.com/"
+  },
+  "keywords": [
+    "fix",
+    "float",
+    "number",
+    "bug",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragonwong/fixfloat"
+  }
+}
