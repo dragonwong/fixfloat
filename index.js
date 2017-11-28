@@ -1,7 +1,7 @@
 /**
  * fixFloat js 浮点数修复
- * @param {*} floatNumber float number
- * @param {*} digtal count of digtal after dot
+ * @param {number} floatNumber float number
+ * @param {number} digtal count of digtal after dot
  */
 function fixfloat(floatNumber, digtal) {
   if (typeof digtal !== 'number') {
