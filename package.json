@@ -1,7 +1,7 @@
 {
   "name": "fixfloat",
-  "version": "1.0.0",
-  "description": "fix float number bug in javascript",
+  "version": "1.0.1",
+  "description": "fix float number bug or round float number",
   "author": {
     "name": "wangdagen",
     "url": "http://wangdagen.com/"
@@ -11,7 +11,7 @@
     "float",
     "number",
     "bug",
-    "javascript"
+    "round"
   ],
   "repository": {
     "type": "git",
